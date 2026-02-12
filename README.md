@@ -65,7 +65,7 @@ Schematic sheets:
 The BOM is user-maintained in `BOM.md`. A KiCad-exported CSV can be generated from the schematic if you prefer a machine-readable BOM.
 
 <details>
-  <summary><strong>Detailed BOM (deduplicated)</strong></summary>
+  <summary><strong>Detailed BOM</strong></summary>
 
 ### Bill of Materials
 
