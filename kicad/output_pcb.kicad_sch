@@ -4288,7 +4288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-3931.PDF"
 			(at 196.85 152.4 0)
 			(effects
 				(font
@@ -4422,7 +4422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-1121.pdf"
 			(at 119.38 123.19 0)
 			(effects
 				(font
@@ -4499,7 +4499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-1121.pdf"
 			(at 125.73 35.56 0)
 			(effects
 				(font
@@ -4642,7 +4642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-197.pdf"
 			(at 82.55 102.87 0)
 			(effects
 				(font
@@ -4735,7 +4735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/FH411.pdf"
 			(at 250.19 106.68 0)
 			(effects
 				(font
@@ -4806,7 +4806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-2939.pdf"
 			(at 228.6 148.59 0)
 			(effects
 				(font
@@ -4901,7 +4901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-197.pdf"
 			(at 167.64 59.69 0)
 			(effects
 				(font
@@ -4995,7 +4995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-197.pdf"
 			(at 82.55 72.39 0)
 			(effects
 				(font
@@ -5153,7 +5153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-1121.pdf"
 			(at 119.38 66.04 0)
 			(effects
 				(font
@@ -5231,7 +5231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/FH411.pdf"
 			(at 167.005 59.69 0)
 			(effects
 				(font
@@ -5390,7 +5390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-197.pdf"
 			(at 167.64 116.84 0)
 			(effects
 				(font
@@ -5483,7 +5483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/FH411.pdf"
 			(at 167.005 116.84 0)
 			(effects
 				(font
@@ -5577,7 +5577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-3931.PDF"
 			(at 196.85 144.78 0)
 			(effects
 				(font

@@ -3251,7 +3251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-red-water-clear-ultra-bright.html"
 			(at 152.4 26.67 0)
 			(effects
 				(font
@@ -3328,7 +3328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 119.38 0)
 			(effects
 				(font
@@ -3499,7 +3499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 41.91 0)
 			(effects
 				(font
@@ -3567,7 +3567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 55.88 0)
 			(effects
 				(font
@@ -3636,7 +3636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-green-water-clear-super-bright.html"
 			(at 152.4 148.59 0)
 			(effects
 				(font
@@ -3715,7 +3715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 215.9 130.175 0)
 			(effects
 				(font
@@ -3886,7 +3886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 104.14 0)
 			(effects
 				(font
@@ -4161,7 +4161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-red-water-clear-ultra-bright.html"
 			(at 152.4 104.14 0)
 			(effects
 				(font
@@ -4238,7 +4238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 71.12 0)
 			(effects
 				(font
@@ -4410,7 +4410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-157.PDF"
 			(at 64.135 60.96 0)
 			(effects
 				(font
@@ -4498,7 +4498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 85.725 66.04 0)
 			(effects
 				(font
@@ -4632,7 +4632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 133.35 0)
 			(effects
 				(font
@@ -4701,7 +4701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 222.885 74.93 0)
 			(effects
 				(font
@@ -4940,7 +4940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 148.59 0)
 			(effects
 				(font
@@ -5009,7 +5009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-green-water-clear-super-bright.html"
 			(at 152.4 162.56 0)
 			(effects
 				(font
@@ -5088,7 +5088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 85.725 144.78 0)
 			(effects
 				(font
@@ -5158,7 +5158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-3931.PDF"
 			(at 74.93 65.405 0)
 			(effects
 				(font
@@ -5227,7 +5227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-green-water-clear-super-bright.html"
 			(at 152.4 55.88 0)
 			(effects
 				(font
@@ -5305,7 +5305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-green-water-clear-super-bright.html"
 			(at 152.4 133.35 0)
 			(effects
 				(font
@@ -5487,7 +5487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-3931.PDF"
 			(at 74.93 144.145 0)
 			(effects
 				(font
@@ -5557,7 +5557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 234.95 74.93 0)
 			(effects
 				(font
@@ -5627,7 +5627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 248.285 74.93 0)
 			(effects
 				(font
@@ -5800,7 +5800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 248.285 67.31 0)
 			(effects
 				(font
@@ -5868,7 +5868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 85.09 0)
 			(effects
 				(font
@@ -5938,7 +5938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 215.9 107.315 0)
 			(effects
 				(font
@@ -6008,7 +6008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 215.9 145.415 0)
 			(effects
 				(font
@@ -6076,7 +6076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 162.56 0)
 			(effects
 				(font
@@ -6145,7 +6145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-orange-water-clear.html"
 			(at 152.4 41.91 0)
 			(effects
 				(font
@@ -6224,7 +6224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 215.9 137.795 0)
 			(effects
 				(font
@@ -6293,7 +6293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-157.PDF"
 			(at 64.135 139.7 0)
 			(effects
 				(font
@@ -6381,7 +6381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 215.9 114.935 0)
 			(effects
 				(font
@@ -6451,7 +6451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 215.9 122.555 0)
 			(effects
 				(font
@@ -6519,7 +6519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 142.24 26.67 0)
 			(effects
 				(font
@@ -6691,7 +6691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 222.885 67.31 0)
 			(effects
 				(font
@@ -6760,7 +6760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-green-water-clear-super-bright.html"
 			(at 152.4 85.09 0)
 			(effects
 				(font
@@ -6839,7 +6839,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 234.95 67.31 0)
 			(effects
 				(font
@@ -6908,7 +6908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-green-water-clear-super-bright.html"
 			(at 152.4 71.12 0)
 			(effects
 				(font
@@ -7299,7 +7299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/led-3mm-orange-water-clear.html"
 			(at 152.4 119.38 0)
 			(effects
 				(font

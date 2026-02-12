@@ -2149,7 +2149,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/w-qp-518ma_drawings.pdf"
 			(at 36.83 99.06 0)
 			(effects
 				(font
@@ -2220,7 +2220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/10-x-0-15uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 58.42 76.2 0)
 			(effects
 				(font
@@ -2289,7 +2289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+		(property "Datasheet" "reichelt"
 			(at 66.04 147.32 0)
 			(effects
 				(font
@@ -2377,7 +2377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 63.5 81.28 0)
 			(effects
 				(font
@@ -2445,7 +2445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+		(property "Datasheet" "reichelt"
 			(at 93.98 96.52 0)
 			(effects
 				(font
@@ -2533,7 +2533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 71.12 151.13 0)
 			(effects
 				(font
@@ -2603,7 +2603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 63.5 104.14 0)
 			(effects
 				(font
@@ -2673,7 +2673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-5440.pdf"
 			(at 160.655 48.895 0)
 			(effects
 				(font
@@ -2755,7 +2755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/A-5440.pdf"
 			(at 128.905 48.895 0)
 			(effects
 				(font
@@ -2835,7 +2835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/10-x-0-15uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 58.42 99.06 0)
 			(effects
 				(font
@@ -2903,7 +2903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/w-qp-518ma_drawings.pdf"
 			(at 36.83 76.2 0)
 			(effects
 				(font
@@ -3040,7 +3040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+		(property "Datasheet" "reichelt"
 			(at 93.98 73.66 0)
 			(effects
 				(font
@@ -3194,7 +3194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 71.12 143.51 0)
 			(effects
 				(font

@@ -2759,7 +2759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 149.86 119.38 0)
 			(effects
 				(font
@@ -2829,7 +2829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 214.63 99.06 0)
 			(effects
 				(font
@@ -2897,7 +2897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 111.76 77.47 0)
 			(effects
 				(font
@@ -3069,7 +3069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 149.86 160.02 0)
 			(effects
 				(font
@@ -3346,7 +3346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 149.86 139.7 0)
 			(effects
 				(font
@@ -3414,7 +3414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 82.55 67.31 0)
 			(effects
 				(font
@@ -3482,7 +3482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 149.86 88.9 0)
 			(effects
 				(font
@@ -3550,7 +3550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 137.16 139.7 0)
 			(effects
 				(font
@@ -3636,7 +3636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/10-x-100pf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 82.55 57.15 0)
 			(effects
 				(font
@@ -3704,7 +3704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 149.86 73.66 0)
 			(effects
 				(font
@@ -3878,7 +3878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 227.33 58.42 0)
 			(effects
 				(font
@@ -3964,7 +3964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 149.86 53.34 0)
 			(effects
 				(font
@@ -4032,7 +4032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 149.86 172.72 0)
 			(effects
 				(font
@@ -4100,7 +4100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "reichelt"
 			(at 149.86 33.02 0)
 			(effects
 				(font
@@ -4273,7 +4273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 219.71 58.42 0)
 			(effects
 				(font
@@ -4359,7 +4359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/10-x-100pf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 82.55 140.97 0)
 			(effects
 				(font
@@ -4429,7 +4429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 257.81 106.68 0)
 			(effects
 				(font
@@ -4499,7 +4499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 200.66 106.68 0)
 			(effects
 				(font
@@ -4567,7 +4567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 111.76 161.29 0)
 			(effects
 				(font
@@ -4635,7 +4635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 111.76 88.9 0)
 			(effects
 				(font
@@ -4723,7 +4723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 228.6 99.06 0)
 			(effects
 				(font
@@ -4791,7 +4791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 137.16 73.66 0)
 			(effects
 				(font
@@ -4877,7 +4877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 99.06 161.29 0)
 			(effects
 				(font
@@ -4945,7 +4945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 137.16 33.02 0)
 			(effects
 				(font
@@ -5033,7 +5033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 252.73 58.42 0)
 			(effects
 				(font
@@ -5121,7 +5121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 257.81 99.06 0)
 			(effects
 				(font
@@ -5189,7 +5189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 137.16 119.38 0)
 			(effects
 				(font
@@ -5275,7 +5275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 137.16 160.02 0)
 			(effects
 				(font
@@ -5363,7 +5363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 242.57 99.06 0)
 			(effects
 				(font
@@ -5431,7 +5431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 99.06 77.47 0)
 			(effects
 				(font
@@ -5499,7 +5499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 68.58 158.75 0)
 			(effects
 				(font
@@ -5567,7 +5567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 68.58 74.93 0)
 			(effects
 				(font
@@ -5637,7 +5637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 200.66 99.06 0)
 			(effects
 				(font
@@ -5705,7 +5705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 137.16 53.34 0)
 			(effects
 				(font
@@ -5793,7 +5793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 214.63 106.68 0)
 			(effects
 				(font
@@ -5863,7 +5863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 240.03 58.42 0)
 			(effects
 				(font
@@ -5951,7 +5951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 228.6 106.68 0)
 			(effects
 				(font
@@ -6019,7 +6019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+		(property "Datasheet" "https://www.taydaelectronics.com/ne5532-5532-ic-dual-low-noise-op-amp.html"
 			(at 111.76 172.72 0)
 			(effects
 				(font
@@ -6105,7 +6105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/datasheets/files/royalohmprecisionmetalmf.pdf"
 			(at 82.55 151.13 0)
 			(effects
 				(font
@@ -6175,7 +6175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html"
 			(at 242.57 106.68 0)
 			(effects
 				(font
