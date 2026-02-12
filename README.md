@@ -1,7 +1,7 @@
 [![KiCad 9](https://img.shields.io/badge/KiCad-9-blue)](https://kicad.org)
 [![PCB: output_pcb](https://img.shields.io/badge/PCB-output__pcb-blue)](kicad/output_pcb.kicad_pcb)
 [![Schematics](https://img.shields.io/badge/Sch-multiple-blueviolet)](kicad/output_pcb.kicad_sch)
-[![PCBs: 1](https://img.shields.io/badge/PCBs-1-brightgreen)](kicad/output_pcb.kicad_pcb)
+[![PCBs: 3](https://img.shields.io/badge/PCBs-1-brightgreen)](kicad/output_pcb.kicad_pcb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 # Output (KiCad project)
