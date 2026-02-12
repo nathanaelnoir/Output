@@ -5,10 +5,10 @@
 	(uuid "9afe4d4d-3155-44ea-9484-068db54e495a")
 	(paper "A4")
 	(title_block
-		(title "Output")
-		(date "2024-03-18")
-		(rev "v1.1")
-		(company "Free Modular")
+		(title "Output Module with Volume Meter")
+		(date "2026-02-12")
+		(rev "v1.0")
+		(company "Dirty Dream - Nathanael Noir")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x03_Socket"
@@ -4413,7 +4413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AO_tht:Jack_6.35mm_PJ_629HAN_slots"
+		(property "Footprint" "Eurorack:Jack_6.35mm_PJ_629HAN_slots"
 			(at 119.38 123.19 0)
 			(effects
 				(font
@@ -4490,7 +4490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AO_tht:Jack_6.35mm_PJ_629HAN_slots"
+		(property "Footprint" "Eurorack:Jack_6.35mm_PJ_629HAN_slots"
 			(at 125.73 35.56 0)
 			(effects
 				(font
@@ -5144,7 +5144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AO_tht:Jack_6.35mm_PJ_629HAN_slots"
+		(property "Footprint" "Eurorack:Jack_6.35mm_PJ_629HAN_slots"
 			(at 119.38 66.04 0)
 			(effects
 				(font
