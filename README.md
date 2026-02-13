@@ -1,7 +1,7 @@
 [![KiCad 9](https://img.shields.io/badge/KiCad-9-blue)](https://kicad.org)
 [![Schematic v1.0](https://img.shields.io/badge/Sch-v1.1-blueviolet)](kicad/buffer-module.kicad_sch)
 [![PCB v1.0](https://img.shields.io/badge/PCB-v1.0-blue)](kicad/buffer-module.kicad_pcb)
-[![PCBs: 3](https://img.shields.io/badge/PCBs-1-brightgreen)](kicad/buffer-module.kicad_pcb)
+[![PCBs: 3](https://img.shields.io/badge/PCBs-3-brightgreen)](kicad/buffer-module.kicad_pcb)
 [![Format: Eurorack](https://img.shields.io/badge/Format-Eurorack-0093ff)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Instagram](https://img.shields.io/badge/Instagram-@moonsofmercury-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/moonsofmercury/)
@@ -35,6 +35,8 @@ Project files:
 - `kicad/output_pcb.kicad_sch` — top-level schematic (hierarchical)
 - `kicad/output_pcb.kicad_pcb` — PCB layout
 - `kicad/output_pcb.kicad_prl` — plot/print settings
+
+- `output/` — generated zipped gerbers and other fabrication outputs
 
 Schematic sheets:
 - `kicad/hp_amp.kicad_sch` — HP / amp sheet
