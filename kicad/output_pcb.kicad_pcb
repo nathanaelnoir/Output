@@ -31758,8 +31758,8 @@
 		(layer "Edge.Cuts")
 		(uuid "fa16bf52-b1af-440a-a9a0-649fa195f4ef")
 	)
-	(gr_text "made in\nSouth Tyrol"
-		(at 216.41 89.59 0)
+	(gr_text "designed in\nSouth Tyrol"
+		(at 215.485 89.805 0)
 		(layer "F.SilkS")
 		(uuid "0e26792a-3e2a-4897-863d-3cc5a7780368")
 		(effects
